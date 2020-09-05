@@ -3,6 +3,7 @@ language = "de-CH"
 title = "XXL Sonnenschirm"
 enableRobotsTXT = true
 theme = "terrassa"
+publishDir = "docs"
 
 [params.contact]
     email = "info@xxlsonnenschirm.ch"
