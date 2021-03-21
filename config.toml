@@ -4,6 +4,11 @@ title = "XXL Sonnenschirm"
 enableRobotsTXT = true
 theme = "terrassa"
 
+[params]
+    description = "sonnenschirm"                                                # Description for the meta description tag
+    favicon = "favicon.ico"                                                     # Relative URL for your favicon
+    logo = "https://xxlsonnenschirm.github.io/xxlsonnenschirm/logotext.png"     # Absolute URL for your logo
+
 [params.contact]
     email = "info@xxlsonnenschirm.ch"
     phone = "079 365 14 44"
