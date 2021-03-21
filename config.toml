@@ -9,3 +9,6 @@ theme = "terrassa"
     phone = "079 365 14 44"
     skype = ""
     address = "6405 Immensee"
+
+[params]
+gallery_css = ["css/gallery.css"] 
