@@ -9,7 +9,7 @@
 {{ $image := (.Page.Resources.ByType "image") }}
 {{ with $image }}
     {{ range . }}
-    {{ $resized := .Fill "200x165 q20" }}
+    {{ $resized := .Fill "400x300 q20" }}
     <div class="column">
         <a href="{{ .Permalink }}" data-lightbox="x"><img src="{{ $resized.Permalink }}" /></a>
     </div>
