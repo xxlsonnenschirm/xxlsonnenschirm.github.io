@@ -2,10 +2,9 @@ baseURL = "https://xxlsonnenschirm.github.io/"
 language = "de-CH"
 title = "XXL Sonnenschirm"
 enableRobotsTXT = true
-theme = "terrassa"
+theme = ["hugo-cloak-email", "terrassa"]
 
 [params.contact]
-    email = "info@xxlsonnenschirm.ch"
     phone = "079 365 14 44"
     skype = ""
     address = "6405 Immensee"
