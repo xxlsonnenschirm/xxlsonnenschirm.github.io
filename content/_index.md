@@ -4,7 +4,7 @@ description: ""
 images: []
 draft: false
 menu: main
-weight: 0
+weight: 1
 ---
 # Herzlich willkommen auf xxlsonnenschirm.ch
 

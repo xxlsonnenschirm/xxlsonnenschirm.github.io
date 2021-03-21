@@ -4,11 +4,11 @@ description: ""
 images: []
 draft: false
 menu: main
-weight: 0
+weight: 2
 ---
 # Schirm zur Vermietung
 
-Auch bei Regen einsetzbar.  
+Auch bei Regen einsetzbar.
 Der Veranstalter stellt für Auf-/Abbau (mind. 3 Personen) zur Verfügung.  
 Bietet Platz für 10 Tischgarnituren ( 2.2m x 0.6 m)
 
